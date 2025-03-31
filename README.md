@@ -35,7 +35,7 @@ D:/Users/Marco_DellOsa/mygit/mvp_s1/.git/git status		verifica se os arquivos est
 
 Se estiverem incluidos os nomes dos arquivos aparecem verde
 
-D:/Users/Marco_DellOsa/mygit/mvp_s1/.git/git add .		incluiu todos os arquivos do projeto
+D:/Users/Marco_DellOsa/mygit/mvp_s1/.git/git add .     		incluiu todos os arquivos do projeto
 
 --------------------
 Agora que os arquivos estão na caixa precisamos "etiquetar" ou dar um nome a essa caixa. Este processo se chama COMMIT
