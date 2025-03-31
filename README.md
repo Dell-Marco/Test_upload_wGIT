@@ -70,6 +70,5 @@ mas olhando para o terminal vemos que ele executou várias operações tipo essa
 	PS D:\users\marco_dellosa\mygit\mvp_s1>
 
 
-
 Olhamos então no link: https://github.com/Dell-Marco/MVP_S1.git
 para verificar se foi feito o upload.
